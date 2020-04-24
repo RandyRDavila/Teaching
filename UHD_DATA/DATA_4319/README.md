@@ -6,17 +6,17 @@ Supplemental course material for the course Statistical & Machine Learning (DATA
 * Assistant Professor of Data Science
 * Department of Mathematics and Statistics
 * One Main, Houston TX 77002
-* [email](davilar@uhd.edu)
+* Email: DavilaR@uhd.edu
 
 ### Course Description: 
 This senior level data science course blends the predictive perspective of statistical pattern recognition together with the algorithmic perspectives of  machine learning. Topics include,  but  are  not  limited  to: 
-* The Components of Learning
+**The Components of Learning**
  - Supervised Learning
  - Unsupervised Learning
  - Semisupervised Learning
  - Feasibility of Learning
 
-* Supervised Learning
+**Supervised Learning**
  - Linear Regression
  - The K-Nearest Neighbors Algorithm
  - Decision Trees and Regression Trees
@@ -24,7 +24,7 @@ This senior level data science course blends the predictive perspective of stati
  - The Perceptron Learning Algorithm
  - Neural Nets
  
-* Unsupervised Learning 
+**Unsupervised Learning**
  - Clustering 
  - The K-Means Clustering Algorithm 
 
