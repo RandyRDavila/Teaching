@@ -1,5 +1,5 @@
-# Teaching
-Supplemental course material for the course Statistical & Machine Learning (DATA 4319) taught at the University of Houston-Downtown course. 
+# University of Houston-Downtown DATA 4319: Statistical & Machine Learning
+Supplemental course material for the course Statistical & Machine Learning (DATA 4319) taught at the University of Houston-Downtown.
 
 ### Instructor: 
 * Randy Davila, Ph.D.
