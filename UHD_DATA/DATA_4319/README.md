@@ -3,16 +3,32 @@ Supplemental course material for the course Statistical & Machine Learning (DATA
 
 ### Instructor: 
 * Randy Davila, Ph.D.
+* Assistant Professor of Data Science
+* Department of Mathematics and Statistics
+* One Main, Houston TX 77002
+* [email](davilar@uhd.edu)
 
-### University Experience: 
-* Assistant Professor of Data Science 
-* University of Houston-Downtown
-* Texas State University
-* Rice University 
+### Course Description: 
+This senior level data science course blends the predictive perspective of statistical pattern recognition together with the algorithmic perspectives of  machine learning. Topics include,  but  are  not  limited  to: 
+* The Components of Learning
+ - Supervised Learning
+ - Unsupervised Learning
+ - Semisupervised Learning
+ - Feasibility of Learning
 
-### Instructional Areas: 
-* Mathematics
-* Data Science 
+* Supervised Learning
+ - Linear Regression
+ - The K-Nearest Neighbors Algorithm
+ - Decision Trees and Regression Trees
+ - Gradient Descent & Logistic Regression
+ - The Perceptron Learning Algorithm
+ - Neural Nets
+ 
+* Unsupervised Learning 
+ - Clustering 
+ - The K-Means Clustering Algorithm 
+
+
 
 ## Prerequisite Programming Languages 
 - [Python](https://www.python.org/) versions 3.6 and higher 
@@ -20,12 +36,3 @@ Supplemental course material for the course Statistical & Machine Learning (DATA
 
 I would also highly recommend downloading the [anaconda package manager.](https://www.anaconda.com/download/#linux)
 
-
-
-## Acknowledgments
-
-* Dr. Michael Henning
-* Dr. Ryan Pepper
-* Dr. Illya Hicks
-* Dr. Sharon Strickland
-* David Amos
