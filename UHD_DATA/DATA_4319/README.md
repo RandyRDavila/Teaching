@@ -10,11 +10,13 @@ Supplemental course material for the course Statistical & Machine Learning (DATA
 
 ### Course Description: 
 This senior level data science course blends the predictive perspective of statistical pattern recognition together with the algorithmic perspectives of  machine learning. Topics include,  but  are  not  limited  to: 
+
 **The Components of Learning**
  - Supervised Learning
  - Unsupervised Learning
  - Semisupervised Learning
  - Feasibility of Learning
+ - Measuring Error
 
 **Supervised Learning**
  - Linear Regression
@@ -26,7 +28,10 @@ This senior level data science course blends the predictive perspective of stati
  
 **Unsupervised Learning**
  - Clustering 
- - The K-Means Clustering Algorithm 
+ - The K-Means Clustering Algorithm
+ - Hierarchical Clustering
+ - Probabilistic Clustering 
+ - Autoencoding 
 
 
 
